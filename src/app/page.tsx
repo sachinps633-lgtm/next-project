@@ -1,4 +1,3 @@
-import { Header } from "@/components/header"
 import { HeroSection } from "@/components/hero-section"
 import { ValueProposition } from "@/components/value-proposition"
 import { ServicesSection } from "@/components/services-section"

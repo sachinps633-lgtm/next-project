@@ -2,8 +2,7 @@
 
 import { useState } from "react"
 import { Card } from "@/components/ui/card"
-import { Button } from "@/components/ui/button"
-import { ChevronLeft, ChevronRight, Star, Quote } from "lucide-react"
+import {  Star, Quote } from "lucide-react"
 
 export function TestimonialsSection() {
   const [currentTestimonial, setCurrentTestimonial] = useState(0)
